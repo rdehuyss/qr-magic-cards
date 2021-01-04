@@ -7,6 +7,7 @@ Magic Cards merges the physical world with the digital world. It lets you create
 - Play a movie
 - Tune to a TV channel
 - Unlock your back door
+
 Scan your card, music starts playing. Boom.
 
 <p align="center">
