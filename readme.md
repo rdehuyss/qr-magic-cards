@@ -9,6 +9,10 @@ Magic Cards merges the physical world with the digital world. It lets you create
 - Unlock your back door
 Scan your card, music starts playing. Boom.
 
+<p align="center">
+   <img width="460" height="300" src="https://user-images.githubusercontent.com/567842/103515271-b382e080-4e6e-11eb-8750-05c750dcc9ee.jpg">
+</p>
+
 ## Why
 You might be wondering why you would want to bring back physical media after finally ridding ourselves of all of it.
 
@@ -26,3 +30,5 @@ Ridding our world of physical media ends up having quite a few drawbacks:
 - Eh voila!
 
 
+## Show me the money!
+Sometimes a video is worth more than 1000 pictures (enable sound): https://photos.app.goo.gl/isFxqg2okRAJ7ke17
