@@ -13,7 +13,7 @@ wlan = network.WLAN(network.STA_IF)
 wlan.active(True)
 if not wlan.isconnected():
     print('Connecting to network...')
-    wlan.connect('Sint-Truidensesteenweg 70', 'internetisvaniedereen')
+    wlan.connect('***', '**')
     while not wlan.isconnected():
         time.sleep_ms(50)
         pass
